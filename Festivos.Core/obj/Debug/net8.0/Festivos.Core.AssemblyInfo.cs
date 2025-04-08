@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Festivos.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b748e9293bbe80b7d31bafad1a6199e760fef9df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Festivos.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Festivos.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

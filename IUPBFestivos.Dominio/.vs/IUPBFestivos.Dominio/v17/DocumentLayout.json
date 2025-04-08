@@ -1,41 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF1599E-9875-44A5-8706-1C6A5C103CC6}|..\\Festivos.Core\\Festivos.Core.csproj|c:\\users\\asus\\desktop\\festivos_herramientas\\festivos.core\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\festivos.presentacion\\controllers\\festivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|solutionrelative:festivos.presentacion\\controllers\\festivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF1599E-9875-44A5-8706-1C6A5C103CC6}|..\\Festivos.Core\\Festivos.Core.csproj|c:\\users\\asus\\desktop\\festivos_herramientas\\festivos.core\\festivos.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\festivos.presentacion\\controllers\\tipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|solutionrelative:festivos.presentacion\\controllers\\tipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Persistencia\\Contexto\\FestivoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C51C8B0D-9D46-4513-9610-C5E10106076D}|..\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj|c:\\users\\asus\\desktop\\festivos_herramientas\\festivos.infraestructura\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5566AA3-028A-475D-B739-117B1D677C80}|IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj|c:\\users\\asus\\desktop\\festivos_herramientas\\iupbfestivos.dominio\\iupbfestivos.dominio\\entidades\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5566AA3-028A-475D-B739-117B1D677C80}|IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\iupbfestivos.dominio\\entidades\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5566AA3-028A-475D-B739-117B1D677C80}|IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj|solutionrelative:iupbfestivos.dominio\\entidades\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5566AA3-028A-475D-B739-117B1D677C80}|IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj|c:\\users\\asus\\desktop\\festivos_herramientas\\iupbfestivos.dominio\\iupbfestivos.dominio\\entidades\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5566AA3-028A-475D-B739-117B1D677C80}|IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\iupbfestivos.dominio\\entidades\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5566AA3-028A-475D-B739-117B1D677C80}|IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj|solutionrelative:iupbfestivos.dominio\\entidades\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Servicios\\IFestivoServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF1599E-9875-44A5-8706-1C6A5C103CC6}|..\\Festivos.Core\\Festivos.Core.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.core\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Repositorios\\IFestivoRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD04FB80-5517-4155-B22B-B348FB9602AD}|..\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.aplicacion\\servicios\\festivoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FD04FB80-5517-4155-B22B-B348FB9602AD}|..\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.aplicacion\\servicios\\tipoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Persistencia\\Festivos.Persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\festivos.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|solutionrelative:festivos.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Festivos.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\festivos.presentacion\\di\\inyecciondependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|solutionrelative:festivos.presentacion\\di\\inyecciondependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\iupbfestivos.dominio\\festivos.presentacion\\festivos.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BC5D60F-EF9F-402D-A3C8-DECD82FBC5B0}|Festivos.Presentacion\\Festivos.Presentacion.csproj|solutionrelative:festivos.presentacion\\festivos.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C8B0D-9D46-4513-9610-C5E10106076D}|..\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.infraestructura\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C8B0D-9D46-4513-9610-C5E10106076D}|..\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.infraestructura\\tiporepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF1599E-9875-44A5-8706-1C6A5C103CC6}|..\\Festivos.Core\\Festivos.Core.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.core\\servicios\\itiposervicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E0234C-897E-4181-BE78-DC8B82079F3E}|..\\Festivos.Persistencia\\Festivos.Persistencia.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.persistencia\\contexto\\festivocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF1599E-9875-44A5-8706-1C6A5C103CC6}|..\\Festivos.Core\\Festivos.Core.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.core\\repositorios\\itiporepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD04FB80-5517-4155-B22B-B348FB9602AD}|..\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj|c:\\users\\asus\\documents\\trabajo_herramientas\\festivos_herramientas\\festivos.aplicacion\\festivos.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,145 +65,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FestivoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Infraestructura\\FestivoRepositorio.cs",
-              "RelativeDocumentMoniker": "..\\Festivos.Infraestructura\\FestivoRepositorio.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Infraestructura\\FestivoRepositorio.cs",
-              "RelativeToolTip": "..\\Festivos.Infraestructura\\FestivoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T23:19:27.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IFestivoServicio.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "RelativeDocumentMoniker": "..\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "RelativeToolTip": "..\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T23:18:30.139Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Festivos.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Core\\Festivos.Core.csproj",
-              "RelativeDocumentMoniker": "..\\Festivos.Core\\Festivos.Core.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Core\\Festivos.Core.csproj",
-              "RelativeToolTip": "..\\Festivos.Core\\Festivos.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T23:18:22.967Z",
+              "Title": "TipoController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Controllers\\TipoController.cs",
+              "RelativeDocumentMoniker": "Festivos.Presentacion\\Controllers\\TipoController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Controllers\\TipoController.cs",
+              "RelativeToolTip": "Festivos.Presentacion\\Controllers\\TipoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:30:59.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FestivoAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Aplicacion\\Servicios\\FestivoAplicacion.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Aplicacion\\Servicios\\FestivoAplicacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Aplicacion\\Servicios\\FestivoAplicacion.cs",
+              "RelativeToolTip": "..\\Festivos.Aplicacion\\Servicios\\FestivoAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:55:12.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
+              "RelativeToolTip": "..\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:01:54.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Festivo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
+              "RelativeDocumentMoniker": "IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
+              "RelativeToolTip": "IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:34:38.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FestivoContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\IUPB\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
-              "RelativeToolTip": "..\\..\\..\\Documents\\IUPB\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:09:11.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Festivo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
-              "RelativeDocumentMoniker": "IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
-              "RelativeToolTip": "IUPBFestivos.Dominio\\Entidades\\Festivo.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:02:32.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Tipo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Tipo.cs",
               "RelativeDocumentMoniker": "IUPBFestivos.Dominio\\Entidades\\Tipo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Tipo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\Entidades\\Tipo.cs",
               "RelativeToolTip": "IUPBFestivos.Dominio\\Entidades\\Tipo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T21:02:48.485Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IFestivoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Repositorios\\IFestivoRepositorio.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\IUPB\\Festivos.Core\\Repositorios\\IFestivoRepositorio.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Repositorios\\IFestivoRepositorio.cs",
-              "RelativeToolTip": "..\\..\\..\\Documents\\IUPB\\Festivos.Core\\Repositorios\\IFestivoRepositorio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FestivoController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Controllers\\FestivoController.cs",
+              "RelativeDocumentMoniker": "Festivos.Presentacion\\Controllers\\FestivoController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Controllers\\FestivoController.cs",
+              "RelativeToolTip": "Festivos.Presentacion\\Controllers\\FestivoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:14:28.931Z"
+              "WhenOpened": "2025-04-02T14:30:39.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IFestivoServicio.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\IUPB\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
-              "RelativeToolTip": "..\\..\\..\\Documents\\IUPB\\Festivos.Core\\Servicios\\IFestivoServicio.cs",
+              "Title": "TipoAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Aplicacion\\Servicios\\TipoAplicacion.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Aplicacion\\Servicios\\TipoAplicacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Aplicacion\\Servicios\\TipoAplicacion.cs",
+              "RelativeToolTip": "..\\Festivos.Aplicacion\\Servicios\\TipoAplicacion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:14:42.297Z"
+              "WhenOpened": "2025-04-02T13:55:25.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Festivos.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Program.cs",
+              "RelativeToolTip": "Festivos.Presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:17:51.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Festivos.Infraestructura.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\IUPB\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
-              "RelativeToolTip": "..\\..\\..\\Documents\\IUPB\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T21:18:43.699Z"
+              "Title": "InyeccionDependencia.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Di\\InyeccionDependencia.cs",
+              "RelativeDocumentMoniker": "Festivos.Presentacion\\Di\\InyeccionDependencia.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Di\\InyeccionDependencia.cs",
+              "RelativeToolTip": "Festivos.Presentacion\\Di\\InyeccionDependencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:13:33.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Festivos.Persistencia.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Persistencia\\Festivos.Persistencia.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\IUPB\\Festivos.Persistencia\\Festivos.Persistencia.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Persistencia\\Festivos.Persistencia.csproj",
-              "RelativeToolTip": "..\\..\\..\\Documents\\IUPB\\Festivos.Persistencia\\Festivos.Persistencia.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T21:08:20.416Z"
+              "DocumentIndex": 11,
+              "Title": "TipoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\TipoRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Infraestructura\\TipoRepositorio.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\TipoRepositorio.cs",
+              "RelativeToolTip": "..\\Festivos.Infraestructura\\TipoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:56:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FestivoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
+              "RelativeToolTip": "..\\Festivos.Persistencia\\Contexto\\FestivoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:34:32.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Festivos.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Festivos.Core.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\IUPB\\Festivos.Core\\Festivos.Core.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Documents\\IUPB\\Festivos.Core\\Festivos.Core.csproj",
-              "RelativeToolTip": "..\\..\\..\\Documents\\IUPB\\Festivos.Core\\Festivos.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\FestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Infraestructura\\FestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\FestivoRepositorio.cs",
+              "RelativeToolTip": "..\\Festivos.Infraestructura\\FestivoRepositorio.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:34:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Festivos.Presentacion",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Festivos.Presentacion.csproj",
+              "RelativeDocumentMoniker": "Festivos.Presentacion\\Festivos.Presentacion.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\Festivos.Presentacion\\Festivos.Presentacion.csproj",
+              "RelativeToolTip": "Festivos.Presentacion\\Festivos.Presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-13T21:15:59.771Z"
+              "WhenOpened": "2025-04-02T14:28:33.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITipoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Servicios\\ITipoServicio.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Core\\Servicios\\ITipoServicio.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Servicios\\ITipoServicio.cs",
+              "RelativeToolTip": "..\\Festivos.Core\\Servicios\\ITipoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:08:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITipoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Repositorios\\ITipoRepositorio.cs",
+              "RelativeDocumentMoniker": "..\\Festivos.Core\\Repositorios\\ITipoRepositorio.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Repositorios\\ITipoRepositorio.cs",
+              "RelativeToolTip": "..\\Festivos.Core\\Repositorios\\ITipoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:17:21.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Festivos.Aplicacion",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "..\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
+              "RelativeToolTip": "..\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T13:43:18.379Z",
+              "EditorCaption": ""
             }
           ]
         }

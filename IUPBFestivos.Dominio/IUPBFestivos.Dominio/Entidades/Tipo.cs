@@ -11,7 +11,7 @@ namespace IUPBFestivos.Dominio.Entidades
     [Table("Tipo")]
     public class Tipo
     {
-        [Key]
+        [Column("Id")]
         public int Id { get; set; }
 
         [Column("Tipo")]

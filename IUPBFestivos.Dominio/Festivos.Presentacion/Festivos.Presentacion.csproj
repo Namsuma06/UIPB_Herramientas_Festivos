@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Festivos.Aplicacion\Festivos.Aplicacion.csproj" />
+    <ProjectReference Include="..\..\Festivos.Infraestructura\Festivos.Infraestructura.csproj" />
+    <ProjectReference Include="..\..\Festivos.Persistencia\Festivos.Persistencia.csproj" />
+    <ProjectReference Include="..\IUPBFestivos.Dominio\IUPBFestivos.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

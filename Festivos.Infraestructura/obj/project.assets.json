@@ -2868,11 +2868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
       "projectName": "Festivos.Infraestructura",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\Festivos.Infraestructura.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Infraestructura\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Infraestructura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2894,14 +2894,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Core\\Festivos.Core.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Core\\Festivos.Core.csproj"
+            "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Festivos.Core.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Core\\Festivos.Core.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Persistencia\\Festivos.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\Festivos.Persistencia\\Festivos.Persistencia.csproj"
+            "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Persistencia\\Festivos.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\Festivos.Persistencia\\Festivos.Persistencia.csproj"
             },
-            "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Desktop\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj"
+            "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Documents\\Trabajo_Herramientas\\Festivos_Herramientas\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj"
             }
           }
         }
