@@ -1,4 +1,5 @@
 ﻿using Festivos.Core.Servicios;
+using Festivos.Core.Utilidades;
 using IUPBFestivos.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
 
@@ -63,6 +64,27 @@ namespace Festivos.Presentacion.Controllers
             return NoContent();
         }
 
+        [HttpGet("validar")]
+        public async Task<IActionResult> Validar(int? año, int? mes, DateTime? fecha)
+        {
+            var festivosEnumerable = await _festivoServicio.ObtenerTodos();
+            var festivos = festivosEnumerable.ToList();
+
+            if (fecha.HasValue)
+            {
+                var resultado = CalcularFestivos.EsFestivo(fecha.Value, festivos);
+                return Ok(resultado);
+            }
+            else if (año.HasValue && mes.HasValue)
+            {
+                var lista = CalcularFestivos.ObtenerFestivosDelMes(año.Value, mes.Value, festivos);
+                return Ok(lista);
+            }
+            else
+            {
+                return BadRequest("Debes enviar una fecha o al menos el año y el mes.");
+            }
+        }
 
     }
 }

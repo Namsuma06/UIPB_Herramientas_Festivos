@@ -15,6 +15,7 @@ namespace Festivos.Core.Repositorios
         Task<Festivo> Modificar(Festivo festivo);
         Task<Festivo> Obtener(int id);
         Task<IEnumerable<Festivo>> ObtenerTodos();
+        Task<List<Festivo>> ObtenerTodosFestivos();
     }
 }
 

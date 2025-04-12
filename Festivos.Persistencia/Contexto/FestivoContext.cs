@@ -31,7 +31,7 @@ namespace Festivos.Persistencia.Contexto
                        .HasMaxLength(100);
 
                 entidad.HasOne(e => e.Tipo)
-                       .WithMany(t => t.Festivos)
+                       .WithMany()
                        .HasForeignKey(e => e.IdTipo)
                        .OnDelete(DeleteBehavior.Cascade);
             });

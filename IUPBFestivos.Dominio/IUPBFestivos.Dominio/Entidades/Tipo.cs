@@ -15,9 +15,9 @@ namespace IUPBFestivos.Dominio.Entidades
         public int Id { get; set; }
 
         [Column("Tipo")]
-        public string Nombre { get; set; }
+        public required string Nombre { get; set; }
 
         // Relación con Festivos (si es necesaria)  
-        public ICollection<Festivo> Festivos { get; set; } // si es necesario  
+        //public ICollection<Festivo> Festivos { get; set; } // si es necesario  
     }
 }

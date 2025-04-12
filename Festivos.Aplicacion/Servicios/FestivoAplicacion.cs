@@ -1,5 +1,6 @@
 ﻿using Festivos.Core.Repositorios;
 using Festivos.Core.Servicios;
+using Festivos.Core.Utilidades;
 using IUPBFestivos.Dominio.Entidades;
 using System;
 using System.Collections.Generic;
@@ -46,6 +47,12 @@ namespace Festivos.Aplicacion.Servicios
         public async Task<IEnumerable<Festivo>> ObtenerTodos()
         {
             return await repositorio.ObtenerTodos();
+        }
+
+        public async Task<string> ValidarFecha(DateTime fecha)
+        {
+            var festivos = await repositorio.ObtenerTodosFestivos();
+            return CalcularFestivos.EsFestivo(fecha, festivos);
         }
     }
 }

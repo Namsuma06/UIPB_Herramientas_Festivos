@@ -9,6 +9,7 @@ namespace Festivos.Core.Servicios
 {
     public interface IFestivoServicio
     {
+        Task<string> ValidarFecha(DateTime fecha);
         Task<Festivo> Agregar(Festivo festivo);
         Task<IEnumerable<Festivo>> Buscar(int tipo, string dato);
         Task<bool> Eliminar(int id);

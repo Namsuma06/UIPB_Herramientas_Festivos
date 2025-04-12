@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "DdBm1VESv3I1fdPv2z6dfR1EFI5ZFBq5+NK011trmoQ=",
+  "Hash": "JgzwgHfKz6PbWqTZ7Kp7hF52lPXDwKphIrBPwTMn1j8=",
   "Source": "Festivos.Presentacion",
   "BasePath": "_content/Festivos.Presentacion",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

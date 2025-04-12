@@ -53,5 +53,11 @@ namespace Festivos.Infraestructura
         {
             return await contexto.Festivos.Include(f => f.Tipo).ToListAsync();
         }
+
+        public async Task<List<Festivo>> ObtenerTodosFestivos()
+        {
+            return await contexto.Festivos.Include(f => f.Tipo).ToListAsync();
+        }
+
     }
 }
