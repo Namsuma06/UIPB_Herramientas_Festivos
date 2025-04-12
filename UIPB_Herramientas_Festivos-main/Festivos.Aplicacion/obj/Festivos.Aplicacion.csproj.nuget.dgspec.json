@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj": {}
+    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj": {
+    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
         "projectName": "Festivos.Aplicacion",
-        "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
+        "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\Festivos.Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Estefania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estefania\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj": {
-                "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj"
+              "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj": {
+                "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj"
               },
-              "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj"
+              "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj": {
+    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj",
         "projectName": "Festivos.Core",
-        "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj",
+        "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\Festivos.Core.csproj",
         "packagesPath": "C:\\Users\\Estefania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\obj\\",
+        "outputPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\Festivos.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estefania\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj"
+              "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj"
               }
             }
           }
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
+    "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj",
         "projectName": "IUPBFestivos.Dominio",
-        "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj",
+        "projectPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio.csproj",
         "packagesPath": "C:\\Users\\Estefania\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Estefania\\Downloads\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\UIPB_Herramientas_Festivos-main\\IUPBFestivos.Dominio\\IUPBFestivos.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estefania\\AppData\\Roaming\\NuGet\\NuGet.Config",
