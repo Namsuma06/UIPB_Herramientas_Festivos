@@ -2,6 +2,7 @@
 using IUPBFestivos.Dominio.Entidades;
 using Microsoft.EntityFrameworkCore;
 using Festivos.Core.Repositorios;
+using IUPBFestivos.Dominio.Dtos;
 
 
 namespace Festivos.Infraestructura
@@ -66,6 +67,19 @@ namespace Festivos.Infraestructura
         public async Task<IEnumerable<Tipo>> ObtenerTodos()
         {
             return await Context.Tipos.ToListAsync();
+        }
+        public async Task<IEnumerable<FestivosportipoDtos>> ObtenerFestivosConNombreTipo(int tipoId)
+        {
+            return await Context.Festivos
+                .Where(f => f.IdTipo == tipoId)
+                .Include(f => f.Tipo)
+                .Select(f => new FestivosportipoDtos
+                {
+                    Id = f.Id,
+                    Nombre = f.Nombre,
+                    NombreTipo = f.Tipo.Nombre
+                })
+                .ToListAsync();
         }
     }
 }

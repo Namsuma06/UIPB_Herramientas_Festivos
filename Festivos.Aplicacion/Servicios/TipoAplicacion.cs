@@ -1,5 +1,6 @@
 ﻿using Festivos.Core.Repositorios;
 using Festivos.Core.Servicios;
+using IUPBFestivos.Dominio.Dtos;
 using IUPBFestivos.Dominio.Entidades;
 using System;
 using System.Collections.Generic;
@@ -46,6 +47,11 @@ namespace Festivos.Aplicacion.Servicios
         public async Task<IEnumerable<Tipo>> ObtenerTodos()
         {
             return await repositorio.ObtenerTodos();
+
+        }
+        public async Task<IEnumerable<FestivosportipoDtos>> ObtenerFestivosConNombreTipo(int tipoId)
+        {
+            return await repositorio.ObtenerFestivosConNombreTipo(tipoId);
         }
     }
 

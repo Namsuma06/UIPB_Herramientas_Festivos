@@ -1,6 +1,17 @@
 using Festivos.Presentacion.Di;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("PermitirAngular",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200")
+                  //.AllowAnyOrigin()
+                  .AllowAnyMethod()
+                  .AllowAnyHeader();
+        });
+});
 
 // Add services to the container.
 var configuracion = builder.Configuration;
@@ -21,6 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("PermitirAngular");
 
 app.UseAuthorization();
 

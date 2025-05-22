@@ -1,4 +1,5 @@
-﻿using IUPBFestivos.Dominio.Entidades;
+﻿using IUPBFestivos.Dominio.Dtos;
+using IUPBFestivos.Dominio.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,5 +16,6 @@ namespace Festivos.Core.Servicios
         Task<Tipo> Modificar(Tipo tipo);
         Task<Tipo> Obtener(int id);
         Task<IEnumerable<Tipo>> ObtenerTodos();
+        Task<IEnumerable<FestivosportipoDtos>> ObtenerFestivosConNombreTipo(int tipoId);
     }
 }

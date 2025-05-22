@@ -1,21 +1,5 @@
 [
   {
-    "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
-    "Method": "Agregar",
-    "RelativePath": "agregar",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "tipo",
-        "Type": "IUPBFestivos.Dominio.Entidades.Tipo",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "Festivos.Presentacion.Controllers.FestivoController",
     "Method": "Agregar",
     "RelativePath": "api/festivo/agregar",
@@ -153,8 +137,24 @@
   },
   {
     "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
+    "Method": "Agregar",
+    "RelativePath": "api/tipo/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipo",
+        "Type": "IUPBFestivos.Dominio.Entidades.Tipo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
     "Method": "Eliminar",
-    "RelativePath": "eliminar/{id}",
+    "RelativePath": "api/tipo/eliminar/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -169,8 +169,18 @@
   },
   {
     "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
+    "Method": "ObtenerTodos",
+    "RelativePath": "api/tipo/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
     "Method": "Modificar",
-    "RelativePath": "modificar/{id}",
+    "RelativePath": "api/tipo/modificar/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -191,7 +201,7 @@
   {
     "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
     "Method": "Obtener",
-    "RelativePath": "obtener/{id}",
+    "RelativePath": "api/tipo/obtener/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -203,6 +213,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Festivos.Presentacion.Controllers.TipoController",
+    "Method": "ObtenerFestivosConNombreTipo",
+    "RelativePath": "api/tipo/porTipo/{tipoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[IUPBFestivos.Dominio.Dtos.FestivosportipoDtos, IUPBFestivos.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Festivos.Presentacion.Controllers.WeatherForecastController",
